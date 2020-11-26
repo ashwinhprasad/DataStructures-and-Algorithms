@@ -1,5 +1,9 @@
 # Data Structures
 
+<img alt="DataStructure Logo" src="./Picture/Datastrutures.jpg" />
+
+<br>
+
 This repo contains the implementation of data structures in c++.
 
 1. C++
@@ -8,8 +12,8 @@ This repo contains the implementation of data structures in c++.
       - Queue as an Array
       - Circular Queue
       - Double Ended Eueue 
-   1. Linked Lists
+   2. Linked Lists
        - Stack as a Linked List
        - Queue as a Linked List
-   1. Trees
+   3. Trees
         - Binary Search Tree
