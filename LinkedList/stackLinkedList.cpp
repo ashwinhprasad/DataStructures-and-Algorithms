@@ -12,9 +12,7 @@ struct node {
 struct node *top = NULL;
 
 void push(int n) {
-
     struct node *temp = new node;
-
     if( temp == NULL ){
         cout<<"Overflow Error"<<endl;
     } else if( top == NULL){
@@ -26,7 +24,6 @@ void push(int n) {
         temp->next = top;
         top = temp;
     }
-
 }
 
 void display() {
