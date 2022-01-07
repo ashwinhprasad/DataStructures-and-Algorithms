@@ -1,6 +1,6 @@
 # Data Structures
 
-<img alt="DataStructure Logo" src="./Picture/Datastrutures.jpg" />
+<img alt="DataStructure Logo" src="./static/Datastrutures.jpg" />
 
 <br>
 
