@@ -42,6 +42,7 @@ int main(){
 
         } else if (a[i] == '+' || a[i] == '-'){
             while(stack[top] == '+' || stack[top] == '-' || stack[top] == '/' || stack[top] == '*'){
+                cout<<stack[top];
                 top--;
             }
             top++;
