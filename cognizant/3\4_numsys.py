@@ -1,3 +1,8 @@
+"""
+create a number system with only numbers 3 and 4. then, return the nth term.
+eg: 3, 4, 33, 34, 43, 44, 333, 334, 343, 344, 433, 434, 443, 444.... 
+"""
+
 n = int(input())
 a = [3]
 j = 0
